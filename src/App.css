@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  background-color: rgb(45, 129, 202);
 }
 .navbar{
   display: flex;
@@ -16,8 +17,9 @@
   color: black;
 }
 .navbar li a:hover{
-  background-color: gray;
-  color: #fff;
+  background-color: rgb(255, 255, 255);
+  color: rgb(58, 12, 12);
+  /* transform: rotate(0.9turn); */
 }
 
 .hero-container{
